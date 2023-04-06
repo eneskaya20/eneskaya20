@@ -1,12 +1,12 @@
 # Hello, I'm Enes Kaya 👋
 ## About Me
-🎓 I'm a student in Electrical-Electronics Engineering with a passion for Software Development, Data Science, and Electronics.
+🎓 I'm a student in Electrical-Electronics Engineering passionate about Software Development, Data Science, and Electronics.
 
-👀 I'm interested in exploring new technologies and learning new skills to improve myself.
+👀 My desire is to expand my knowledge and enhance my abilities by exploring innovative technologies and acquiring new skills.
 
 🌱 Currently, I'm learning Java, React, and Python to enhance my knowledge.
 
-💞️ I'm looking to make projects on Web Development, Data Science, and Electronics to gain experience and contribute to the community.
+💞️ My objective is to gain practical experience and make valuable contributions to the community by pursuing projects in the fields of Web Development and Data Science.
 
 📫 You can reach me via [email](mailto:iletisim.eneskaya@outlook.com.tr) or [LinkedIn](https://www.linkedin.com/in/eneskya/).
 
