@@ -1,6 +1,6 @@
 # Hello, I'm Enes Kaya 👋
 ## About Me
-🎓 I'm a student in Electrical-Electronics Engineering passionate about Software Development, Data Science, and Electronics.
+🎓 I'm a student in Electrical-Electronics Engineering passionate about NLP, Computer Vision, and Data Science.
 
 👀 My desire is to expand my knowledge and enhance my abilities by exploring innovative technologies and acquiring new skills.
 
