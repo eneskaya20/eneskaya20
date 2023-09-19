@@ -4,7 +4,7 @@
 
 👀 My desire is to expand my knowledge and enhance my abilities by exploring innovative technologies and acquiring new skills.
 
-🌱 Currently, I'm learning Java, React, and Python to enhance my knowledge.
+🌱 Currently, I'm learning Python in Computer Vision and Data Science to enhance my knowledge.
 
 💞️ My objective is to gain practical experience and make valuable contributions to the community by pursuing projects in the fields of Web Development and Data Science.
 
